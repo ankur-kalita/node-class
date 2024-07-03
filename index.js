@@ -41,8 +41,8 @@ fs.rename('file.txt', 'new-file.txt', (err)=>{
 
 */
 
-// const file_path = '/home/rushil/Desktop/Development/nodePractice/new-file.txt'
-// const folder_path = '/home/rushil/Desktop/Development/nodePractice/dir1';
+// const file_path = '/home/ankur/Desktop/Development/nodePractice/new-file.txt'
+// const folder_path = '/home/ankur/Desktop/Development/nodePractice/dir1';
 
 // const nPath = path.join(__dirname, 'new-file.txt');
 // console.log(nPath);
